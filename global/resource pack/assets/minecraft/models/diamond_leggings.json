@@ -60,7 +60,8 @@
       "predicate": {
         "trim_type": 1.0
       }
-    }
+    },
+    {"predicate": {"custom_model_data": 1}, "model": "custom:item/emerald_leggings"}
   ],
   "textures": {
     "layer0": "minecraft:item/diamond_leggings"
